@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(38, 97, 99);
+}
+.container{
+    background-color: white;
+    min-height: 90vh;
+}
+
+.toDoItem{
+    background-color: rgb(249, 242, 255);
+}
+
+body{
+    color: rgb(111, 145, 255);
+}
